@@ -1,3 +1,3 @@
 # TriviaGame
 
-This is a Trivia Game made using Java.
+Trivia Game made using Java.
